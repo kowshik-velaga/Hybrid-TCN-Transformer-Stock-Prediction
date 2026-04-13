@@ -71,10 +71,3 @@ Hyperparameters were tuned on representative stocks and applied across other dat
 - Advanced missing value imputation techniques  
 - Multi-step forecasting  
 
----
-
-## Author
-Krishna Kowshik
-
-## Note
-This repository contains the implementation for the research paper developed as part of a collaborative project.
